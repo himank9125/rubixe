@@ -1,0 +1,16 @@
+.parent {
+  display: flex;
+  justify-content: space-evenly;
+  padding-left: 60px;
+  /* width: 1200px; */
+  margin-left: 270px;
+  margin-right: 270px;
+  /* left: 200px; */
+  /* right: 200px; */
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.child1 {
+  text-align: start;
+  padding: 60px;
+}

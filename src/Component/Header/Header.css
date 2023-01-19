@@ -1,0 +1,11 @@
+.anchertag {
+  color: white;
+}
+a:hover {
+  color: blue;
+}
+.display-flex {
+  position: absolute;
+  right: 0px;
+  width: 700px;
+}
